@@ -1,0 +1,87 @@
+Restarted application in 779ms.
+[GETX] Instance "GetMaterialController" has been created
+[GETX] Instance "GetMaterialController" has been initialized
+[GETX] Instance "LoginService" has been created
+[GETX] Instance "LoginController" has been initialized
+Reloaded 1 of 817 libraries in 461ms (compile: 14 ms, reload: 127 ms, reassemble: 285 ms).
+Reloaded 1 of 817 libraries in 372ms (compile: 11 ms, reload: 105 ms, reassemble: 216 ms).
+I/AssistStructure(25435): Flattened final assist data: 460 bytes, containing 1 windows, 3 views
+I/TextInputPlugin(25435): Composing region changed by the framework. Restarting the input method.
+W/IInputConnectionWrapper(25435): getTextBeforeCursor on inactive InputConnection
+W/IInputConnectionWrapper(25435): getSelectedText on inactive InputConnection
+W/IInputConnectionWrapper(25435): getTextAfterCursor on inactive InputConnection
+W/IInputConnectionWrapper(25435): beginBatchEdit on inactive InputConnection
+W/IInputConnectionWrapper(25435): getTextBeforeCursor on inactive InputConnection
+W/IInputConnectionWrapper(25435): endBatchEdit on inactive InputConnection
+I/TextInputPlugin(25435): Composing region changed by the framework. Restarting the input method.
+W/IInputConnectionWrapper(25435): getTextAfterCursor on inactive InputConnection
+I/TextInputPlugin(25435): Composing region changed by the framework. Restarting the input method.
+W/IInputConnectionWrapper(25435): getTextBeforeCursor on inactive InputConnection
+W/IInputConnectionWrapper(25435): getSelectedText on inactive InputConnection
+W/IInputConnectionWrapper(25435): getTextAfterCursor on inactive InputConnection
+W/IInputConnectionWrapper(25435): beginBatchEdit on inactive InputConnection
+W/IInputConnectionWrapper(25435): getTextBeforeCursor on inactive InputConnection
+W/IInputConnectionWrapper(25435): endBatchEdit on inactive InputConnection
+W/IInputConnectionWrapper(25435): beginBatchEdit on inactive InputConnection
+W/IInputConnectionWrapper(25435): endBatchEdit on inactive InputConnection
+I/AssistStructure(25435): Flattened final assist data: 448 bytes, containing 1 windows, 3 views
+W/IInputConnectionWrapper(25435): setComposingRegion on inactive InputConnection
+I/flutter (25435): login butonuna basıldı
+I/flutter (25435): login service sayfasi response:
+I/flutter (25435): Instance of 'Response'
+I/flutter (25435): response body
+I/flutter (25435): {"STATU":2,"USER_ID":"91","USERNAME":"new","PASSWORD":"new","DATE":"2023-02-11"}
+I/flutter (25435): response headers
+I/flutter (25435): {content-type: text/html; charset=UTF-8, x-powered-by: PHP/8.2.0, date: Wed, 15 Feb 2023 09:05:58 GMT, content-length: 80, server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0}
+I/flutter (25435): response isRedirect
+I/flutter (25435): false
+I/flutter (25435): response persistentConnection
+I/flutter (25435): true
+I/flutter (25435): response reasonPhrase
+I/flutter (25435): OK
+I/flutter (25435): response request
+I/flutter (25435): POST http://10.0.2.2/notebook/login.php
+I/flutter (25435): response statusCode
+I/flutter (25435): 200
+I/flutter (25435): respons kısmını bitti printler
+I/flutter (25435): respons yapıldı / başarılı
+I/flutter (25435): json bastırma
+I/flutter (25435): {username: new, password: new}
+I/flutter (25435): json bastırıldı
+I/flutter (25435): is login dinleniyor
+I/flutter (25435): is login true
+I/flutter (25435): is login dinleniyor
+[GETX] GOING TO ROUTE /views/home/home_page
+I/chatty  (25435): uid=10165(com.example.note_book) 1.ui identical 2 lines
+I/flutter (25435): is login dinleniyor
+I/flutter (25435): is login true
+[GETX] CLOSE TO ROUTE /views/home/home_page
+I/flutter (25435): is login dinleniyor
+I/flutter (25435): is login true
+[GETX] GOING TO ROUTE /views/home/home_page
+[GETX] CLOSE TO ROUTE /views/home/home_page
+[GETX] GOING TO ROUTE /views/home/home_page
+I/flutter (25435): user.userId:
+I/flutter (25435): 91
+[GETX] Instance "HomeService" has been created
+[GETX] Instance "HomeController" has been initialized
+I/flutter (25435): Instance of 'Response'
+I/flutter (25435): {"notes":[{"noteId":"6","title":"new de not baslk","description":"new de not","date":"2023-02-12","isRemove":"0","userId":"91"},{"noteId":"11","title":"off","description":"off oldu","date":"2023-02-12","isRemove":"0","userId":"91"},{"noteId":"12","title":"new deneme","description":"new acklama","date":"2023-02-15","isRemove":"0","userId":"91"}]}
+I/flutter (25435): false
+I/flutter (25435): true
+I/flutter (25435): OK
+I/flutter (25435): POST http://10.0.2.2/notebook/get_user_notes.php
+I/flutter (25435): Instance of 'Response'
+I/flutter (25435): {"notes":[{"noteId":"6","title":"new de not baslk","description":"new de not","date":"2023-02-12","isRemove":"0","userId":"91"},{"noteId":"11","title":"off","description":"off oldu","date":"2023-02-12","isRemove":"0","userId":"91"},{"noteId":"12","title":"new deneme","description":"new acklama","date":"2023-02-15","isRemove":"0","userId":"91"}]}
+I/flutter (25435): false
+I/flutter (25435): true
+I/flutter (25435): OK
+I/flutter (25435): POST http://10.0.2.2/notebook/get_user_notes.php
+I/flutter (25435): Instance of 'Response'
+I/flutter (25435): {"notes":[{"noteId":"6","title":"new de not baslk","description":"new de not","date":"2023-02-12","isRemove":"0","userId":"91"},{"noteId":"11","title":"off","description":"off oldu","date":"2023-02-12","isRemove":"0","userId":"91"},{"noteId":"12","title":"new deneme","description":"new acklama","date":"2023-02-15","isRemove":"0","userId":"91"}]}
+I/flutter (25435): false
+I/flutter (25435): true
+I/flutter (25435): OK
+I/flutter (25435): POST http://10.0.2.2/notebook/get_user_notes.php
+[GETX] "LoginController" onClose() called
+[GETX] "LoginController" deleted from memory

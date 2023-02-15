@@ -1,0 +1,47 @@
+I/TextInputPlugin(25435): Composing region changed by the framework. Restarting the input method.
+W/IInputConnectionWrapper(25435): getTextAfterCursor on inactive InputConnection
+W/IInputConnectionWrapper(25435): getTextBeforeCursor on inactive InputConnection
+W/IInputConnectionWrapper(25435): getSelectedText on inactive InputConnection
+W/IInputConnectionWrapper(25435): getTextAfterCursor on inactive InputConnection
+W/IInputConnectionWrapper(25435): beginBatchEdit on inactive InputConnection
+W/IInputConnectionWrapper(25435): getTextBeforeCursor on inactive InputConnection
+W/IInputConnectionWrapper(25435): endBatchEdit on inactive InputConnection
+I/TextInputPlugin(25435): Composing region changed by the framework. Restarting the input method.
+I/flutter (25435): search service sayfasi response:
+I/flutter (25435): Instance of 'Response'
+I/flutter (25435): response body
+I/flutter (25435): <br />
+I/flutter (25435): <b>Warning</b>:  Undefined array key "ISREMOVE" in <b>C:\xampp\htdocs\notebook\notes.php</b> on line <b>85</b><br />
+I/flutter (25435): <br />
+I/flutter (25435): <b>Warning</b>:  Undefined array key "ISREMOVE" in <b>C:\xampp\htdocs\notebook\notes.php</b> on line <b>85</b><br />
+I/flutter (25435): <br />
+I/flutter (25435): <b>Warning</b>:  Undefined array key "ISREMOVE" in <b>C:\xampp\htdocs\notebook\notes.php</b> on line <b>85</b><br />
+I/flutter (25435): <br />
+I/flutter (25435): <b>Warning</b>:  Undefined array key "ISREMOVE" in <b>C:\xampp\htdocs\notebook\notes.php</b> on line <b>85</b><br />
+I/flutter (25435): {"notes":[{"noteId":"6","title":"new de not baslk","description":"new de not","date":"2023-02-12","isRemove":null},{"noteId":"7","title":"new2","description":"new2","date":"2023-02-12","isRemove":null},{"noteId":"8","title":"new3","description":"new3","date":"2023-02-12","isRemove":null},{"noteId":"12","title":"new deneme","description":"new acklama","date":"2023-02-15","isRemove":null}]}<br />
+I/flutter (25435): <b>Warning</b>:  Undefined variable $userArray in <b>C:\xampp\htdocs\notebook\search.php</b> on line <b>26</b><br />
+I/flutter (25435): null   body olması gerek !!!!!!!!!!!!!!!!!!!!!!********************burda sıkıntı var
+I/flutter (25435): response headers
+I/flutter (25435): {content-type: text/html; charset=UTF-8, x-powered-by: PHP/8.2.0, date: Wed, 15 Feb 2023 09:07:43 GMT, content-length: 1015, server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0}
+I/flutter (25435): response isRedirect
+I/flutter (25435): false
+I/flutter (25435): response persistentConnection
+I/flutter (25435): true
+I/flutter (25435): response reasonPhrase
+I/flutter (25435): OK
+I/flutter (25435): response request
+I/flutter (25435): POST http://10.0.2.2/notebook/search.php
+I/flutter (25435): response statusCode
+I/flutter (25435): 200
+I/flutter (25435): respons kısmını bitti printler
+I/flutter (25435): arama başarılı
+I/flutter (25435): json bastırma
+I/flutter (25435): json bastırılamadı ...
+I/flutter (25435): json bastırıldı
+I/flutter (25435): returnden once :
+I/flutter (25435): ***********************
+I/flutter (25435): try catch içerisindeki e: FormatException: Unexpected character (at character 1)
+I/flutter (25435): <br />
+I/flutter (25435): ^
+I/flutter (25435):
+I/flutter (25435): *****************

@@ -1,0 +1,60 @@
+
+
+localhost ta register yaptıgımda sorun cıkmadıgı zaman debug console cıktıları
+
+W/IInputConnectionWrapper(20603): endBatchEdit on inactive InputConnection
+I/AssistStructure(20603): Flattened final assist data: 460 bytes, containing 1 windows, 3 views
+I/flutter (20603): ontap içerisi kac defa tekrar edecek
+I/flutter (20603): register service sayfasi response:
+I/flutter (20603): Instance of 'Response'
+I/flutter (20603): response body
+I/flutter (20603): {"STATU":true,"MESSAGE":"Kullan\u0131c\u0131 eklendi."}
+I/flutter (20603): response headers
+I/flutter (20603): {content-type: text/html; charset=UTF-8, x-powered-by: PHP/8.2.0, date: Tue, 31 Jan 2023 20:01:10 GMT, content-length: 55, server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0}
+I/flutter (20603): response isRedirect
+I/flutter (20603): false
+I/flutter (20603): response persistentConnection
+I/flutter (20603): true
+I/flutter (20603): response reasonPhrase
+I/flutter (20603): OK
+I/flutter (20603): response request
+
+:)))
+
+
+
+
+
+
+import 'dart:ui' as ui;
+       ^
+/D:/src/flutter/packages/flutter_test/lib/src/_goldens_io.dart:8:8: Error: Not found: 'dart:ui'
+import 'dart:ui';
+       ^
+/D:/src/flutter/packages/flutter_test/lib/src/accessibility.dart:7:8: Error: Not found: 'dart:ui'
+import 'dart:ui' as ui;
+       ^
+/D:/src/flutter/packages/flutter_test/lib/src/animation_sheet.dart:6:8: Error: Not found: 'dart:ui'
+import 'dart:ui' as ui;
+       ^
+/D:/src/flutter/packages/flutter_test/lib/src/binding.dart:6:8: Error: Not found: 'dart:ui'
+import 'dart:ui' as ui;
+       ^
+/D:/src/flutter/packages/flutter_test/lib/src/event_simulation.dart:7:8: Error: Not found: 'dart:ui'
+import 'dart:ui' as ui;
+       ^
+/D:/src/flutter/packages/flutter_test/lib/src/frame_timing_summarizer.dart:5:8: Error: Not found: 'dart:ui'
+import 'dart:ui';
+       ^
+/D:/src/flutter/packages/flutter_test/lib/src/goldens.dart:6:8: Error: Not found: 'dart:ui'
+import 'dart:ui';
+       ^
+/D:/src/flutter/packages/flutter_test/lib/src/image.dart:7:8: Error: Not found: 'dart:ui'
+import 'dart:ui' as ui;
+       ^
+/D:/src/flutter/packages/flutter_test/lib/src/matchers.dart:6:8: Error: Not found: 'dart:ui'
+import 'dart:ui' as ui;
+       ^
+PS D:\StudioProjects\note_book>
+
+
